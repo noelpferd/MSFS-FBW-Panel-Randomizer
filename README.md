@@ -1,5 +1,5 @@
 # MSFS-FBW-A32NX-Panel-Randomizer
-This Powershell Script randomizes some selected variables for the FlyByWire A320Neo for better realism at cold&dark state.<br/>
+This Powershell Script randomizes some selected panelstates for the FlyByWire A320Neo for better realism at cold&dark state.<br/>
 Optionally, it can be converted to an .exe for adding it to the startup-configuration of MSFS.<br />
 
 # Usage:

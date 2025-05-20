@@ -1,6 +1,6 @@
 # MSFS-FBW-Panel-Randomizer
-This Powershell Script randomizes some selected panelstates for the FlyByWire A320Neo and A380 for better realism at cold&dark state by modifying its appropriate variables in apron.flt .<br/>
-It's compatible with both (stable and development) versions of the aircrafts.<br />
+This Powershell Script randomizes some selected panelstates for the FlyByWire A320Neo and A380 (stable & dev) for better realism at cold&dark state.<br />
+It's implemented by modifying the appropriate variables in apron.flt.<br/>
 Optionally, it can be converted to an .exe for adding it to the autostart configuration of MSFS.<br />
 
 # Usage:
@@ -29,7 +29,7 @@ customize the configuration by adding CommandLine:<br />
 > <CommandLine\>-communityfolder "C:\MSFS-Communityfolder\" -a380 -advanced</CommandLine\>
 
 # Restore to defaults
-This script doesn't do any backup of the original apron.flt. In case of revert, just copy the files from following urls:<br />
+This script doesn't do any backup of the original apron.flt. In case of revert, just copy the files from their github page:<br />
 A320: https://github.com/flybywiresim/aircraft/blob/master/fbw-a32nx/src/base/flybywire-aircraft-a320-neo/SimObjects/AirPlanes/FlyByWire_A320_NEO/apron.FLT<br />
 A380: https://github.com/flybywiresim/aircraft/blob/master/fbw-a380x/src/base/flybywire-aircraft-a380-842/SimObjects/AirPlanes/FlyByWire_A380_842/apron.FLT<br />
 or do an update via the flybywire installer

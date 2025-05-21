@@ -8,7 +8,7 @@ Optionally, it can be converted to an .exe for adding it to the autostart config
 > Arguments:<br />
 > -communityfolder: Set path to custom communityfolder in case of autodetect fails<br />
 > -a380: Set panelstates for the FlyByWire A380 instead of A320Neo<br />
-> -advanced: airbus was left behind like a mess
+> -advanced: airbus was left behind like a mess (non-realistic panelstates, complete pre-startup check has to be done)
 
 # Compilation for startup exe.xml:
 > PS > Install-Module ps2exe<br />
